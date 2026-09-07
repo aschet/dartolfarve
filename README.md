@@ -19,9 +19,6 @@ values are transformed to sRGB.
 dart pub add olfarve
 ```
 
-The package targets Dart 3 and has no runtime dependencies. It is fully
-cross-platform (command-line, server, web, and Flutter).
-
 ## Usage
 
 ```dart
