@@ -46,8 +46,6 @@ complete, runnable example.
 
 ## Development
 
-Requires the [Dart SDK](https://dart.dev/get-dart).
-
 ```bash
 dart pub get
 dart test
