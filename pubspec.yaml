@@ -1,0 +1,17 @@
+name: olfarve
+description: >-
+  sRGB color rendering of SRM/EBC beer color values, following the spectral
+  model described by A. J. de Lange in "Color" (Brewing Materials and
+  Processes, 2016).
+version: 1.0.0
+repository: https://github.com/aschet/dartolfarve
+issue_tracker: https://github.com/aschet/dartolfarve/issues
+topics:
+  - color
+
+environment:
+  sdk: ^3.0.0
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.0

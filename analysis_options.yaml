@@ -1,0 +1,13 @@
+include: package:lints/recommended.yaml
+
+analyzer:
+  language:
+    strict-casts: true
+    strict-inference: true
+    strict-raw-types: true
+
+linter:
+  rules:
+    # This is a published package: every public API member should be
+    # documented so pub.dev's generated docs (and its scoring) are complete.
+    - public_member_api_docs
